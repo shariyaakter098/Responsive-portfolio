@@ -1,0 +1,19 @@
+
+body{
+    background-color: rgb(230, 219, 228);
+}
+
+/* .rounded-circle{
+    color:black;
+    background-color: rgb(55, 187, 29);
+    border:none;
+    border-color: black;
+    border-radius: 50%;
+} */
+
+.flax-item i{
+    font-size: 3rem;
+}
+
+.contact-me-03 i{
+    font-size: 4rem;}
